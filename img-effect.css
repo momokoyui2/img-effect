@@ -1,0 +1,3 @@
+.come-in{perspective:200px;animation:hago 0.8s ease forwards}
+.already-visible{left:0;animation:none}
+@keyframes hago{from{opacity:.5;transform:scale(0.8)}to{opacity:1;transform:scale(1.0)}}
